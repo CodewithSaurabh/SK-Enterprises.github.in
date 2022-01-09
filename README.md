@@ -1,3 +1,2 @@
 # SK-Enterprises
-There have also sql file 
-I will upload soon...
+There have some error I will fix it soon.
